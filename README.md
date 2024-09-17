@@ -5,7 +5,7 @@
 * 103 bin veri olduğundan Gözetimsiz öğrenme için ise program 30 dk gibi bir süre sonra sonuçlanıyor.
 *Ayrıca bir flask api yazarak kullanıcların kriterlere verdiği puanları hesaplayıp kullanıcıların genel memnuniyetini tahmin eden bir web arayüzü tasarladım. buna ulaşmak içinde app.py uygulamasını çalıştırıp localhost:8080 portuyla çalıştırılabilir.
 *Resim dosyalarımda ise programın ürettiği grafik çıktıları bulunmaktadır.
-
+*Sonuçlar incelendiğinde Gözetimli öğrenim RandomForestRegressor algoritması için daha uygun bir sonuç üretildiği gözlemlenmiş olup %94 başarı oranı elde edilmiştir.
 Sonuçlar:
 *Gözetimli Öğrenim(RandomForestRegressor):
 Özelliklerin Genel Memnuniyet Puanına Katkısı:
